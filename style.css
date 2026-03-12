@@ -12,6 +12,13 @@ html {
 /* reset for images to ensure they ar 100% of the parent container width */
 img {
     width: 100%;
+
+}
+
+container {
+  max-width: 1100px; /* Or your preferred width */
+  margin: 0 auto;    /* Centers the box horizontally */
+  padding: 0 20px;   /* Adds a small 'cushion' on mobile */
 }
 
 /* The hero section styling- use your OWN Hero Image URL here */
@@ -23,7 +30,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: rgb(255, 255, 255);
+    color: rgba(13, 72, 87, 0.89);
     text-align: center;
     position: relative;
 }
