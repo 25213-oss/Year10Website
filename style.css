@@ -12,14 +12,9 @@ html {
 /* reset for images to ensure they ar 100% of the parent container width */
 img {
     width: 100%;
-
 }
 
-container {
-  max-width: 1100px; /* Or your preferred width */
-  margin: 0 auto;    /* Centers the box horizontally */
-  padding: 0 20px;   /* Adds a small 'cushion' on mobile */
-}
+
 
 /* The hero section styling- use your OWN Hero Image URL here */
 .hero {
@@ -43,7 +38,7 @@ container {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: white;
+    color: rgb(58, 136, 189);
     font-size: 2em;
     padding: 0.1em 3em;
     background-color: rgb(71, 71, 71);
