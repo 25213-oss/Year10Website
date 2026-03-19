@@ -57,7 +57,7 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgba(25, 63, 52, 0.877);
+    background-color: rgba(82, 177, 121, 0.877);
     color: white;
     padding: 1em;
     border-radius: 0.5em;
