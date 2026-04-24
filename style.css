@@ -5,6 +5,7 @@ html {
     padding: 0;
     height: 100%;
     /* The Font Family- Really important!! */
+    background-image: url('0_HOLjG0O3eC7ADyPh.gif');
     font-family: Arial, sans-serif;
     box-sizing: border-box;
 }
@@ -38,10 +39,10 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: rgb(243, 243, 243);
+    color: rgb(255, 0, 0);
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: rgb(63, 145, 111);
+    background-color: rgb(0, 0, 0);
 }
 
 /* Three column grid with a nice big gap */
@@ -57,8 +58,8 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgba(82, 177, 121, 0.877);
-    color: rgb(118, 223, 98);
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
     padding: 1em;
     border-radius: 0.5em;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
@@ -75,8 +76,8 @@ img {
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
-    background-color: rgba(45, 223, 169, 0.877);
-    color: rgb(255, 255, 255);
+    background-color:gray;
+    color:gray ;
     text-align: right;
     padding: 3em 3em;
 }
