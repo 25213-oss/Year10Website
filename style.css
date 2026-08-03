@@ -6,7 +6,8 @@ html {
     height: 100%;
     /* The Font Family- Really important!! */
     background-image: url('images/tank\ gif.gif');
-    font-family: Arial, sans-serif;
+    background-size:calc(80);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
     box-sizing: border-box;
 }
 
